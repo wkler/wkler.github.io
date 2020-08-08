@@ -1,10 +1,9 @@
 <!--简历版本：0.1-->  
 ## 个人信息   
 > 姓名：KAILIN WANG  
-> 手机：176 0980 9207  
 > 邮箱：343751065@qq.com  
 > 微信号：wklerer  
-> GitHub: github.com/wkler  wkler.github.io  
+> GitHub: github.com/wkler / wkler.github.io  
 
 <!--
 ## 工作经历（4年物联网设备开发经验）
